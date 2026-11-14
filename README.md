@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Atualmente, estou dando meus primeiros passos no mundo da programação, aprendendo e desenvolvendo minhas habilidades em **HTML e CSS**.
+Atualmente, estou dando meus primeiros passos no mundo da programação, aprendendo e desenvolvendo minhas habilidades em **HTML, CSS e JAVASCRIPT**.
 
 Acredito que não importa onde começa a jornada, mas sim a determinação de continuar evoluindo.
 

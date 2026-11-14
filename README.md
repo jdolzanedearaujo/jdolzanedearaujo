@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**jdolzanedearaujo/jdolzanedearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Seja bem-vindo ao meu universo.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou dando meus primeiros passos no mundo da programação, aprendendo e desenvolvendo minhas habilidades em **HTML e CSS**.
+
+Acredito que não importa onde começa a jornada, mas sim a determinação de continuar evoluindo.
+
+- Desenvolvedor iniciante.
+- Estudando desenvolvimento web.
+- Tecnologias atuais: HTML5 e CSS3.
+- Sempre disposto a aprender coisas novas.
+- Meu sonho é trabalhar com aquilo que amo: programação e tecnologia.
+- Construindo meu caminho, um código de cada vez.
+
+## Tecnologias que estou aprendendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## Objetivo
+
+Transformar minha paixão pela tecnologia em minha profissão, evoluindo constantemente e criando projetos que representem meu aprendizado.
+
+---
+
+<p align="center">
+  <i>"Cada linha de código é um passo mais próximo do futuro que quero construir."</i>
+</p>
+
+<h3 align="center">EM CONSTANTE EVOLUÇÃO</h3>
